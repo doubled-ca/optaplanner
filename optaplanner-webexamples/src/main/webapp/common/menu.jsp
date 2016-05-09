@@ -7,5 +7,6 @@
   <ul>
     <li><a href="<%=request.getContextPath()%>/vehiclerouting/index.jsp">Vehicle routing</a></li>
     <li><a href="<%=request.getContextPath()%>/cloudbalancing/loaded.jsp">Cloud balancing</a></li>
+    <li><a href="<%=request.getContextPath()%>/nurserostering/index.jsp">Nurse Rostering</a></li>
   </ul>
 </div>
